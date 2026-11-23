@@ -2,21 +2,20 @@
 
 # Carlos Portal
 
-**Software Engineer** · **Founder & CTO** of [Kultro](https://kultrohub.com)
+**AI Engineer** · Agents, LLMs and backend
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://carlosportal.vercel.app)
 [![Substack](https://img.shields.io/badge/Creans%20Vincit-FF6719?style=flat-square&logo=substack&logoColor=white)](https://creansvincit.substack.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuuser)
 
 </div>
 
 ---
 
-I build systems that **capture, process, and make sense of human behavior at scale**. Currently building **real-time lead intelligence for live events** — think behavioral analytics meets trade show chaos.
+I build **AI agents and backend systems** that hold up in production: typed tools, evals, traces and human approval where it matters.
 
-When I'm not shipping features at 2am, I'm studying **Computational Physics** at UNED, getting choked at **BJJ** or butchering violin pieces
+Previously founded **[Kultro](https://kultrohub.com)**: real-time lead intelligence for live events, with LLM agents in production.
 
-I believe the best software comes from people who understand **systems beyond code** — physics, philosophy, human patterns. That's the thesis.
+Studying **Computational Physics** at UNED, getting choked at **BJJ** and butchering violin pieces.
 
 ---
 
@@ -28,9 +27,9 @@ I believe the best software comes from people who understand **systems beyond co
 
 ### 🔭 Currently
 
-- **Scaling Kultro** for enterprise clients
-- Deep in **multi-tenant architecture** and **real-time data pipelines**
-- Studying **quantum mechanics** and pretending it helps me write better APIs (it does)
+- Building **agents and evals** ([Magister Studio](https://github.com/Portaltocoding/magister-studio))
+- Publishing **MCP servers**
+- Studying **quantum mechanics**
 
 ---
 
